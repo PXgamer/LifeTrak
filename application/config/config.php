@@ -3,6 +3,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
 |--------------------------------------------------------------------------
+| LifeTrak Server Config Variables
+|--------------------------------------------------------------------------
+|
+*/
+$config['trakt_client_id'] = '';      // Trakt.tv Client ID
+$config['trakt_client_secret'] = '';  // Trakt.tv Client Secret
+
+/*
+|--------------------------------------------------------------------------
 | Base Site URL
 |--------------------------------------------------------------------------
 |
