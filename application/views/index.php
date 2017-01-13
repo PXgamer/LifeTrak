@@ -9,7 +9,9 @@
 
 <h3>How can I download LifeTrak?</h3>
 <p>Downloads are available on GitHub.</p>
-<div class="btn-group">
-    <a href="https://github.com/PXgamer/LifeTrak/blob/master/dist/LifeTrak.user.js" target="_blank"
+<div>
+    <a href="https://github.com/PXgamer/LifeTrak/raw/master/dist/LifeTrak.user.js" target="_blank"
        class="btn btn-default btn-sm"><span class="fa fa-github fa-fw"></span> Download latest release</a>
+    <a href="https://github.com/PXgamer/LifeTrak/blob/master/dist/LifeTrak.user.js" target="_blank"
+       class="btn btn-default btn-sm"><span class="fa fa-github fa-fw"></span> View script code</a>
 </div>
