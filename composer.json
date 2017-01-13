@@ -1,0 +1,13 @@
+{
+    "name": "owen.voke/life-trak-server",
+    "description": "Allows you to track what you watch on various sites using Trakt.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PXgamer",
+            "email": "owzie123@gmail.com"
+        }
+    ],
+    "require": {}
+}
